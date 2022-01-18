@@ -1,0 +1,41 @@
+﻿.RightAlign {
+    display: block;
+    text-align: right;
+    font-size: 50px;
+    color: #c81b1b;
+}
+
+table {
+    table-layout: fixed;
+    width: 25%;
+}
+
+td {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-color: #f0f0f0
+}
+
+.auto-style3 {
+    width: auto;
+}
+
+.auto-style4 {
+    width: auto;
+}
+
+.auto-style5 {
+    width: auto;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: gray;
+    color: white;
+}
